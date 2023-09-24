@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Tirtharaj Ghosh"
-  text: "Showcasing a journey of innovation, expertise and hobby"
-  tagline: My great project tagline
+  text: ""
+  tagline: "Showcasing a journey of innovation, expertise and hobby"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,17 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🔎
+    title: Searching Algorithm Visualizer
+    details: Explore AI search algorithms with our user-friendly Searching Algorithm Visualizer. It uses React and Go.js to create animated visuals and offers many features for easy exploration.
+    link: https://tirtharajghosh.github.io/showcase/sav-ai
+  - icon: 🎬
+    title: Subtitle Downloader
+    details: Subtitle-Downloader is a Python QT5 application that empowers you to effortlessly download subtitles for your beloved shows, providing multilingual support with the magic of BeautifulSoup.
+    link: https://tirtharajghosh.github.io/showcase/subtitle-downloaded
+  - icon: 📖
+    title: Sleuth Tales
+    details: SleuthTales is a collection of timeless detective tales featuring iconic characters like Feluda, Byomkesh, and many more. Join us on a journey through these classic mysteries and immerse yourself in their intriguing worlds.
+    link: https://tirtharajghosh.github.io/showcase/sleuth-tales
 ---
 
