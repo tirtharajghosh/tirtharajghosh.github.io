@@ -24,6 +24,11 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/tirtharajghosh' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/tirtharajghosh/' }
-    ]
+    ],
+
+    footer: {
+      message: "Released under the GNU General Public License v3.0 License.",
+      copyright: "Copyright © 2023-present Tirtharaj Ghosh",
+    }
   }
 })
