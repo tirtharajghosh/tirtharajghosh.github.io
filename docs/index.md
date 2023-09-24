@@ -21,11 +21,11 @@ features:
     link: https://tirtharajghosh.github.io/showcase/sav-ai
   - icon: 🎬
     title: Subtitle Downloader
-    details: Subtitle-Downloader is a Python QT5 application that empowers you to effortlessly download subtitles for your beloved shows, providing multilingual support with the magic of BeautifulSoup.
+    details: Subtitle-Downloader is a Python QT5 application that empowers you to effortlessly download multilingual subtitles for your beloved shows, with the magic of BeautifulSoup.
     link: https://tirtharajghosh.github.io/showcase/subtitle-downloaded
   - icon: 📖
     title: Sleuth Tales
-    details: SleuthTales is a collection of timeless detective tales featuring iconic characters like Feluda, Byomkesh, and many more. Join us on a journey through these classic mysteries and immerse yourself in their intriguing worlds.
+    details: SleuthTales is a collection of timeless detective tales featuring iconic characters like Feluda & Byomkesh. Join us on a journey through these classic mysteries and immerse yourself in their intriguing worlds.
     link: https://tirtharajghosh.github.io/showcase/sleuth-tales
 ---
 
