@@ -27,8 +27,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Released under the GNU General Public License v3.0 License.",
-      copyright: "Copyright © 2023-present Tirtharaj Ghosh",
+      message: 'Made with ❤️ by <a href="https://tirtharajghosh.github.io" target="_blank">Tirtharaj Ghosh</a>',
+      copyright: '© 2023 Tirtharaj Ghosh. Released under the GNU General Public License v3.0 License.',
     }
   }
 })
